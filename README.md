@@ -4,6 +4,10 @@
 ------
 `pip install tqdm`
 
+-------
+# keyword = 'homeproxy' 比如'passwall'
+
+
 代码说明：
 download_file 函数：负责下载文件并显示进度条。
 search_and_download_files 函数：在给定的子目录中查找包含指定关键字的文件。如果找到匹配的文件，则调用 download_file 函数下载它，并在下载完成后等待 2 秒。
