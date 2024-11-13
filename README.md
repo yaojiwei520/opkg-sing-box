@@ -1,4 +1,6 @@
 # opkg-sing-box
+pip install requests beautifulsoup4
+pip install tqdm
 
 代码说明：
 download_file 函数：负责下载文件并显示进度条。
