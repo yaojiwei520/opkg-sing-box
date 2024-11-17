@@ -67,7 +67,7 @@ packages_subdirs = [
 ]
 
 # 查找并下载包含 'homeproxy' 的文件
-keyword = 'passwall'
+keyword = 'homeproxy'
 
 # 遍历 packages/ 中的子目录
 for subdir in packages_subdirs:
